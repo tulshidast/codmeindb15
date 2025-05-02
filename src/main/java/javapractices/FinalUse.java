@@ -5,7 +5,6 @@ public final class FinalUse {
 	public static final String PAN;
 
 	static {
-		
 		PAN = "AURPT1987M";
 	}
 
