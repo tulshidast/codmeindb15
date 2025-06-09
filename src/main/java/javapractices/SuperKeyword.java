@@ -39,7 +39,7 @@ class Bchild extends Aparent {
 	public void bChild() {
 
 		super.aParent();
-		System.out.println(super.a + a);
+	//	System.out.println(super.a + a);
 
 	}
 

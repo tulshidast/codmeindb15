@@ -1,7 +1,5 @@
 package testpackages;
 
-import java.util.ArrayList;
-
 import javapractices.DemoProtected;
 import javapractices.test.TestPackage;
 
@@ -25,7 +23,7 @@ public class TestAccess extends DemoProtected {
 
 		System.out.println(Math.min(10, 20));
 
-		ArrayList<String> arrayList = new ArrayList<String>();
+		//ArrayList<String> arrayList = new ArrayList<String>();
 		
 		TestAccess testAccess = new TestAccess();
 		testAccess.div();		
