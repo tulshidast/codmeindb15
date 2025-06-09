@@ -37,6 +37,8 @@ public class VerifyDropdownFunctinality extends OmayoBaseTest {
 //		}
 
 		verify.assertEquals(actuaList, expectedList, "Dropdown options are missing");
+		
+		// Do assert all to verify all results
 		verify.assertAll();
 
 	}
